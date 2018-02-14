@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{3DC5E81B-9795-4E0F-A369-3A2F26F75622}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Xamarin.Netflix.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.Netflix.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8FC7B39B-D9FD-4E8F-9EDB-A6C936820BEC" />
+  <MultiItemStartupConfigurations />
+</Properties>
